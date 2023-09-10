@@ -4,7 +4,7 @@
 - 👀 Я интересуюсь программированием, фотографированием, игрой в Minecraft и редактированием Яндекс.Карт
 - 🌱 В данный момент я изучаю HTML/CSS/JavaScript (Web-разработку) и Python
 - :x: Не имею опыта работы
-- :en: Знаю Английский на уровне А2-B1 (иногда использую переводчик)
+- :gb: Знаю Английский на уровне А2-B1 (иногда использую переводчик)
 - ✨ Моя мечта - работать в ВКонтакте или в Яндексе
 - 📫 Со мной можно связаться по Discord - @mrvikor. Желательно указывать, что Вы из GitHub.
 ------
@@ -13,7 +13,7 @@
 - 👀 I'm interested in programming, photographing, playing Minecraft and editing Яндекс.Карт
 - 🌱 At the time of writting I learn HTML/CSS/JavaScript (Web Development) and Python
 - :x: I haven't any work experience
-- :en: I know English at level of А2-B1 (sometimes I use a translator)
+- :gb: I know English at level of А2-B1 (sometimes I use a translator)
 - ✨ My dream - work at VKontakte or at Yandex
 - 📫 You can contact me by Discord - @mrvikor. It is advisable to indicate that you are from GitHub.
 -----
