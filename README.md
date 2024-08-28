@@ -17,5 +17,5 @@
 - ✨ My dream - work at VKontakte or at Yandex
 - 📫 You can contact me by Telegram - @mrvikor. It is advisable to indicate that you are from GitHub.
 -----
-P.S. Этот README.md в последний раз был отредактирован 10 cентября 2023 года. Все данные действительны на этот момент.  
-P.S. This README.md was edited the 10th September 2023. All information valid at this point.
+P.S. Этот README.md в последний раз был отредактирован 28 августа 2024 года. Все данные действительны на этот момент.  
+P.S. This README.md was edited the 28th August 2024. All information valid at this point.
