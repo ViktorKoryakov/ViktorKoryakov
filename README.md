@@ -1,21 +1,21 @@
 -----
-- 👋 Здравствуйте, меня зовут @ViktorKoryakov
-- :ru: Я из России, на момент написания данного README.md мне 13 лет.
-- 👀 Я интересуюсь программированием, фотографированием, игрой в Minecraft и редактированием Яндекс.Карт
-- 🌱 В данный момент я изучаю HTML/CSS/JavaScript (Web-разработку) и Python
+- 👋 Здравствуйте, меня зовут Виктор Коряков
+- :ru: Я из России, на момент написания данного README.md мне 14 лет
+- 👀 Я интересуюсь программированием, фотографированием и редактированием Яндекс.Карт
+- 🌱 В данный момент я изучаю Python
 - :x: Не имею опыта работы
 - :gb: Знаю Английский на уровне А2-B1 (иногда использую переводчик)
 - ✨ Моя мечта - работать в ВКонтакте или в Яндексе
-- 📫 Со мной можно связаться по Discord - @mrvikor. Желательно указывать, что Вы из GitHub.
+- 📫 Со мной можно связаться по Telegram - @mrvikor. Желательно указывать, что Вы из GitHub.
 ------
-- 👋 Hello, my name is @ViktorKoryakov
+- 👋 Hello, my name is Viktor Koryakov
 - :ru: I'm from Russia, at the time of writing this README.md I'm 13 years old.
-- 👀 I'm interested in programming, photographing, playing Minecraft and editing Яндекс.Карт
-- 🌱 At the time of writting I learn HTML/CSS/JavaScript (Web Development) and Python
+- 👀 I'm interested in programming, photographing and editing Yandex.Maps
+- 🌱 At the time of writting I learn Python
 - :x: I haven't any work experience
 - :gb: I know English at level of А2-B1 (sometimes I use a translator)
 - ✨ My dream - work at VKontakte or at Yandex
-- 📫 You can contact me by Discord - @mrvikor. It is advisable to indicate that you are from GitHub.
+- 📫 You can contact me by Telegram - @mrvikor. It is advisable to indicate that you are from GitHub.
 -----
 P.S. Этот README.md в последний раз был отредактирован 10 cентября 2023 года. Все данные действительны на этот момент.  
 P.S. This README.md was edited the 10th September 2023. All information valid at this point.
